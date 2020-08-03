@@ -1,2 +1,3 @@
 # vanukuru.github.io
-VNR Rao's blog.
+Ravi Vanukuru's website.
+For the blog, check vanukuru.github.io/blog/
